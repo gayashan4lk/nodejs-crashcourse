@@ -16,7 +16,5 @@
     "url": "https://github.com/gayashan4lk/nodejs_crashcourse/issues"
   },
   "homepage": "https://github.com/gayashan4lk/nodejs_crashcourse#readme",
-  "dependencies": {
-    "uuid": "^8.3.2"
-  }
+  "dependencies": {}
 }
